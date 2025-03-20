@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\usuario\\Documents\\Proyectos Desarrollo\\Back\\ApiMiniSistema\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|c:\\users\\usuario\\documents\\proyectos desarrollo\\back\\apiminisistema\\apiminisistema\\entities\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|solutionrelative:apiminisistema\\entities\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|c:\\users\\usuario\\documents\\proyectos desarrollo\\back\\apiminisistema\\apiminisistema\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|solutionrelative:apiminisistema\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|c:\\users\\usuario\\documents\\proyectos desarrollo\\back\\apiminisistema\\apiminisistema\\entities\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|solutionrelative:apiminisistema\\entities\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|c:\\users\\usuario\\documents\\proyectos desarrollo\\back\\apiminisistema\\apiminisistema\\utilities\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|solutionrelative:apiminisistema\\utilities\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|c:\\users\\usuario\\documents\\proyectos desarrollo\\back\\apiminisistema\\apiminisistema\\dtos\\creacionproductosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|solutionrelative:apiminisistema\\dtos\\creacionproductosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|c:\\users\\usuario\\documents\\proyectos desarrollo\\back\\apiminisistema\\apiminisistema\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|solutionrelative:apiminisistema\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|c:\\users\\usuario\\documents\\proyectos desarrollo\\back\\apiminisistema\\apiminisistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|solutionrelative:apiminisistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|c:\\users\\usuario\\documents\\proyectos desarrollo\\back\\apiminisistema\\apiminisistema\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|solutionrelative:apiminisistema\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|c:\\users\\usuario\\documents\\proyectos desarrollo\\back\\apiminisistema\\apiminisistema\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|solutionrelative:apiminisistema\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|c:\\users\\usuario\\documents\\proyectos desarrollo\\back\\apiminisistema\\apiminisistema\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|solutionrelative:apiminisistema\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BF2F8EC-4DFC-4E78-AE8B-B96B0969238D}|ApiMiniSistema\\ApiMiniSistema.csproj|c:\\users\\usuario\\documents\\proyectos desarrollo\\back\\apiminisistema\\apiminisistema\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -42,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,85 +82,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\Proyectos Desarrollo\\Back\\ApiMiniSistema\\ApiMiniSistema\\Utilities\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "ApiMiniSistema\\Utilities\\AutoMapperConfig.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\Proyectos Desarrollo\\Back\\ApiMiniSistema\\ApiMiniSistema\\Utilities\\AutoMapperConfig.cs",
+              "RelativeToolTip": "ApiMiniSistema\\Utilities\\AutoMapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:58:18.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreacionProductosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\Proyectos Desarrollo\\Back\\ApiMiniSistema\\ApiMiniSistema\\DTOs\\CreacionProductosDTO.cs",
+              "RelativeDocumentMoniker": "ApiMiniSistema\\DTOs\\CreacionProductosDTO.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\Proyectos Desarrollo\\Back\\ApiMiniSistema\\ApiMiniSistema\\DTOs\\CreacionProductosDTO.cs",
+              "RelativeToolTip": "ApiMiniSistema\\DTOs\\CreacionProductosDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:39:47.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ProductosController.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Documents\\Proyectos Desarrollo\\Back\\ApiMiniSistema\\ApiMiniSistema\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "ApiMiniSistema\\Controllers\\ProductosController.cs",
               "ToolTip": "C:\\Users\\usuario\\Documents\\Proyectos Desarrollo\\Back\\ApiMiniSistema\\ApiMiniSistema\\Controllers\\ProductosController.cs",
               "RelativeToolTip": "ApiMiniSistema\\Controllers\\ProductosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwC8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T15:05:32.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Productos.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Documents\\Proyectos Desarrollo\\Back\\ApiMiniSistema\\ApiMiniSistema\\Entities\\Productos.cs",
               "RelativeDocumentMoniker": "ApiMiniSistema\\Entities\\Productos.cs",
               "ToolTip": "C:\\Users\\usuario\\Documents\\Proyectos Desarrollo\\Back\\ApiMiniSistema\\ApiMiniSistema\\Entities\\Productos.cs",
               "RelativeToolTip": "ApiMiniSistema\\Entities\\Productos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T14:56:17.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\Proyectos Desarrollo\\Back\\ApiMiniSistema\\ApiMiniSistema\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ApiMiniSistema\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\usuario\\Documents\\Proyectos Desarrollo\\Back\\ApiMiniSistema\\ApiMiniSistema\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ApiMiniSistema\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:43:54.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\Proyectos Desarrollo\\Back\\ApiMiniSistema\\ApiMiniSistema\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "ApiMiniSistema\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\usuario\\Documents\\Proyectos Desarrollo\\Back\\ApiMiniSistema\\ApiMiniSistema\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "ApiMiniSistema\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:34:43.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\Proyectos Desarrollo\\Back\\ApiMiniSistema\\ApiMiniSistema\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "ApiMiniSistema\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\usuario\\Documents\\Proyectos Desarrollo\\Back\\ApiMiniSistema\\ApiMiniSistema\\WeatherForecast.cs",
-              "RelativeToolTip": "ApiMiniSistema\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:34:32.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\Proyectos Desarrollo\\Back\\ApiMiniSistema\\ApiMiniSistema\\Program.cs",
-              "RelativeDocumentMoniker": "ApiMiniSistema\\Program.cs",
-              "ToolTip": "C:\\Users\\usuario\\Documents\\Proyectos Desarrollo\\Back\\ApiMiniSistema\\ApiMiniSistema\\Program.cs",
-              "RelativeToolTip": "ApiMiniSistema\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T00:12:11.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\usuario\\Documents\\Proyectos Desarrollo\\Back\\ApiMiniSistema\\ApiMiniSistema\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ApiMiniSistema\\Properties\\launchSettings.json",
@@ -181,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\usuario\\Documents\\Proyectos Desarrollo\\Back\\ApiMiniSistema\\ApiMiniSistema\\appsettings.json",
               "RelativeDocumentMoniker": "ApiMiniSistema\\appsettings.json",

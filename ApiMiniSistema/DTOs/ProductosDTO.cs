@@ -1,4 +1,4 @@
-﻿namespace ApiMiniSistema.Models
+﻿namespace ApiMiniSistema.DTOs
 {
     public class ProductosDTO
     {
