@@ -1,15 +1,21 @@
 [
   {
-    "ContainingType": "ApiMiniSistema.Controllers.ProductosController",
-    "Method": "Get",
-    "RelativePath": "api/Productos",
-    "HttpMethod": "GET",
+    "ContainingType": "ApiMiniSistema.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "credencialesUsuarioDTO",
+        "Type": "ApiMiniSistema.DTOs.CredencialesUsuarioDTO",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "Type": "ApiMiniSistema.DTOs.RespuestaAutenticacionDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -21,8 +27,18 @@
   },
   {
     "ContainingType": "ApiMiniSistema.Controllers.ProductosController",
-    "Method": "Get",
-    "RelativePath": "api/Productos/{id}",
+    "Method": "Inventario",
+    "RelativePath": "api/Productos/inventario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiMiniSistema.Controllers.ProductosController",
+    "Method": "InventarioPorId",
+    "RelativePath": "api/Productos/inventario{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -44,38 +60,11 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "value",
-        "Type": "System.String",
+        "Name": "productos",
+        "Type": "ApiMiniSistema.DTOs.CreacionProductosDTO",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "ApiMiniSistema.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[ApiMiniSistema.WeatherForecast, ApiMiniSistema, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ],
-    "EndpointName": "GetWeatherForecast"
+    "ReturnTypes": []
   }
 ]

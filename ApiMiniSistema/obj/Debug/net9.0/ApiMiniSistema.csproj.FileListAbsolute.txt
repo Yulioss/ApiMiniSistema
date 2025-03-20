@@ -133,3 +133,12 @@ C:\Users\usuario\Documents\Proyectos Desarrollo\Back\ApiMiniSistema\ApiMiniSiste
 C:\Users\usuario\Documents\Proyectos Desarrollo\Back\ApiMiniSistema\ApiMiniSistema\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\usuario\Documents\Proyectos Desarrollo\Back\ApiMiniSistema\ApiMiniSistema\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\usuario\Documents\Proyectos Desarrollo\Back\ApiMiniSistema\ApiMiniSistema\obj\Debug\net9.0\ApiMiniSistema.sourcelink.json
+C:\Users\usuario\Documents\Proyectos Desarrollo\Back\ApiMiniSistema\ApiMiniSistema\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\usuario\Documents\Proyectos Desarrollo\Back\ApiMiniSistema\ApiMiniSistema\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\usuario\Documents\Proyectos Desarrollo\Back\ApiMiniSistema\ApiMiniSistema\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\usuario\Documents\Proyectos Desarrollo\Back\ApiMiniSistema\ApiMiniSistema\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\usuario\Documents\Proyectos Desarrollo\Back\ApiMiniSistema\ApiMiniSistema\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\usuario\Documents\Proyectos Desarrollo\Back\ApiMiniSistema\ApiMiniSistema\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\usuario\Documents\Proyectos Desarrollo\Back\ApiMiniSistema\ApiMiniSistema\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\usuario\Documents\Proyectos Desarrollo\Back\ApiMiniSistema\ApiMiniSistema\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\usuario\Documents\Proyectos Desarrollo\Back\ApiMiniSistema\ApiMiniSistema\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
