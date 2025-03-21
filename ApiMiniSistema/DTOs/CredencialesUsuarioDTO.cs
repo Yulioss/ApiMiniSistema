@@ -5,8 +5,8 @@ namespace ApiMiniSistema.DTOs
     public class CredencialesUsuarioDTO
     {
         [Required]
-        public required string UserName { get; set; }
+        public required string userName { get; set; }
         [Required]
-        public required string Password { get; set; }
+        public required string password { get; set; }
     }
 }

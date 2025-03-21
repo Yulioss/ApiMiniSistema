@@ -2,6 +2,8 @@
 using ApiMiniSistema.Entities;
 using ApiMiniSistema.Utilities;
 using AutoMapper;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -11,6 +13,7 @@ namespace ApiMiniSistema.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     public class ProductosController : ControllerBase
     {
         private readonly ApplicationDbContext context;

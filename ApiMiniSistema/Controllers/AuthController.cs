@@ -22,7 +22,7 @@ namespace ApiMiniSistema.Controllers
         {
             var claims = new List<Claim>
             {
-                new Claim("user", identityUser.UserName),
+                new Claim("user", identityUser.userName),
                 new Claim("ejemplo segundo valor ", "valor 1111")
             };
 
@@ -34,8 +34,8 @@ namespace ApiMiniSistema.Controllers
 
             return new RespuestaAutenticacionDTO
             { 
-                Token = token,
-                Expiracion = expiration
+                token = token,
+                expiracion = expiration
             };
         }
 
@@ -44,7 +44,7 @@ namespace ApiMiniSistema.Controllers
         {
             try
             {
-                if (credencialesUsuarioDTO.UserName == configuration["UserAdmin"] && credencialesUsuarioDTO.Password == configuration["PasswordAdmin"])
+                if (credencialesUsuarioDTO.userName == configuration["UserAdmin"] && credencialesUsuarioDTO.password == configuration["PasswordAdmin"])
                 {
                     return await ConstruirToken(credencialesUsuarioDTO);
                 }

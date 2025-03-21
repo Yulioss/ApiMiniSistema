@@ -27,6 +27,12 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["keyJwt"])),
         ClockSkew = TimeSpan.Zero
     });
+var origins = builder.Configuration.GetValue<string>("AllowedHosts")!.Split(',');
+builder.Services.AddCors(opciones =>
+    opciones.AddDefaultPolicy(opcionesCors =>
+    {
+        opcionesCors.WithOrigins(origins).AllowAnyMethod().AllowAnyHeader();
+    }));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -39,7 +45,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
-
+app.UseCors();
 app.MapControllers();
 
 app.Run();
